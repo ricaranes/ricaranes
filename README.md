@@ -4,7 +4,7 @@
 - 👨🏻‍💻Data Analyst | Python | Pandas | mySQL | Tableau | Power BI | Machine Learning
 - 🌱 Alumni Data Analytics Bootcamp on Ironhack Lisbon
 - 📫 ricaranes@gmail.com
-- ⚡ You see my winner bootcamp project named Trainer BOT
+- ⚡ You can see my winner bootcamp project named Trainer BOT
 - 👉 <a href='https://www.linkedin.com/in/ricardo-anes/' target="_blank"><img alt='Ricardo Anes Linkedin' width='15' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
 - 👉 <a href='https://public.tableau.com/app/profile/ricardo.anes' target="_blank"><img alt='Ricardo Anes Linkedin' width = '15' src="https://avatars.githubusercontent.com/u/828667?s=200&v=4"></a>
 
