@@ -9,8 +9,6 @@ Welcome to my professional profile. I am a passionate and dedicated Data Analyst
 - ⚡ &nbsp; Proud of my winning bootcamp project, "Trainer BOT", a testament to my commitment to excellence and innovation in data analysis.
 - 📊 &nbsp; Open for exciting project collaborations and job opportunities where I can bring my passion and expertise in data analysis to produce significant results.
 
-<iframe src="https://giphy.com/embed/3oKIPEqDGUULpEU0aQ" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ">via GIPHY</a></p>
-
 
 <br />
 <br />
