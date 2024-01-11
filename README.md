@@ -17,6 +17,10 @@ Welcome to my professional profile. I am a passionate and dedicated Data Analyst
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
 
 <h3>🛠 My Tech Stack</h3>
 
