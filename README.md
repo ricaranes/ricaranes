@@ -9,7 +9,7 @@ Welcome to my professional profile. I am a passionate and dedicated Data Analyst
 - ⚡ &nbsp; Proud of my winning bootcamp project, "Trainer BOT", a testament to my commitment to excellence and innovation in data analysis.
 - 📊 &nbsp; Open for exciting project collaborations and job opportunities where I can bring my passion and expertise in data analysis to produce significant results.
 
-<img align="right" width="480" height="250" alt="GIF" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRhZXdpeGVmbnQ1YWQzdDliNWYxa2xxODZubWYxb203b2l3dWFlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/836HiJc7pgzy8iNXCn/giphy.gif](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)" />
+<img align="right" width="480" height="250" alt="GIF" src="[[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRhZXdpeGVmbnQ1YWQzdDliNWYxa2xxODZubWYxb203b2l3dWFlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/836HiJc7pgzy8iNXCn/giphy.gif](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)](https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif)" />
 
 <br />
 <br />
