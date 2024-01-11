@@ -11,6 +11,11 @@ Welcome to my professional profile. I am a passionate and dedicated Data Analyst
 
 <img align="right" width="480" height="250" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
+
+
+
+
+
 <br />
 <br />
 
