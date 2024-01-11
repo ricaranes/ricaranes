@@ -1,27 +1,16 @@
-### Hi there 👋
-- 🧔🏽My name is Ricardo Anes
-- 📍From Portugal, Porto
-- 👨🏻‍💻Data Analyst | Python | Pandas | mySQL | Tableau | Power BI | Machine Learning
-- 🌱 Alumni Data Analytics Bootcamp on Ironhack Lisbon
-- 📫 ricaranes@gmail.com
-- ⚡ You can see my winner bootcamp project named Trainer BOT
-- 👉 <a href='https://www.linkedin.com/in/ricardo-anes/' target="_blank"><img alt='Ricardo Anes Linkedin' width='15' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
-- 👉 <a href='https://public.tableau.com/app/profile/ricardo.anes' target="_blank"><img alt='Ricardo Anes Linkedin' width = '15' src="https://avatars.githubusercontent.com/u/828667?s=200&v=4"></a>
+# Hello, Recruiters! 👋 I'm Ricardo Anes!
 
+Welcome to my professional profile. I am a passionate and dedicated Data Analyst from Porto, Portugal. With a strong foundation in Python, Pandas, mySQL, Tableau, Power BI, and Machine Learning, I am constantly seeking new challenges and opportunities to make a meaningful impact in the data world.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ricaranes&label=Profile%20views&color=0e75b6&style=flat" alt="ricaranes" /> </p>
+## 👨🏻‍💻 About Me
+- 🌱 Graduated from the prestigious Ironhack Data Analysis Bootcamp in Lisbon, where I not only honed technical skills but also learned to turn complex data into clear and actionable insights.
+- 🚀 Currently, I am focused on further enhancing my data analysis skills, diving into challenging and innovative projects.
+- ⚡ Proud of my winning bootcamp project, "Trainer BOT", a testament to my commitment to excellence and innovation in data analysis.
+- 📊 Open for exciting project collaborations and job opportunities where I can bring my passion and expertise in data analysis to produce significant results.
 
-<!--
-**ricaranes/ricaranes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 My Tech Stack
+- 💻 Proficient in Python, Pandas, mySQL, Tableau, Power BI, and applying Machine Learning principles to solve real-world problems.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫🤝🏻 Let's Connect?
+- 📧 Feel free to contact me via email: [ricaranes@gmail.com](mailto:ricaranes@gmail.com)
+- 🔗 Connect with me on [LinkedIn](#) for a more detailed view of my professional journey.
